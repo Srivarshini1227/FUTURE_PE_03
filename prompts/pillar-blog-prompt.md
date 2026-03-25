@@ -1,31 +1,24 @@
-You are a senior SEO strategist and long-form content writer.
+You are an SEO content specialist.
 
-Generate a 1800–2000 word SEO-optimized pillar blog for a coaching institute.
+Generate an 800–1200 word supporting blog that strengthens a pillar blog.
 
-Business:
-Satya Coaching Institute
-Location: Rajamahendravaram (also known as Rajahmundry)
-Courses: EAPCET, JEE, NEET
-
-Primary Keyword:
-Best coaching institute in Rajamahendravaram
+Inputs:
+Primary Topic: [Exam Name + City]
+Location: Rajamahendravaram / Rajahmundry
+Institute: Satya Coaching Institute
 
 Requirements:
 
-- Clear H1, H2, H3 structure
-- Strong introduction targeting parents and students
-- Explain importance of choosing right coaching
-- Dedicated sections for EAPCET, JEE, NEET
-- Mention location naturally 8–12 times
-- Include Rajahmundry variation
-- Add FAQ section
-- Include internal linking placeholders for:
-  - EAPCET coaching blog
-  - JEE coaching blog
-  - NEET coaching blog
-- Add strong CTA at end
-- Tone: Professional, authoritative, trust-building
-- Avoid generic motivational fluff
-- Make it conversion-focused
+- Focus on one exam (EAPCET / JEE / NEET)
+- Include exam pattern overview
+- Include preparation strategy
+- Include fee overview (general)
+- Mention city naturally
+- Add internal link back to:
+  “Best Coaching Institute in Rajamahendravaram”
+- Include FAQ section
+- Add CTA for Satya Coaching Institute
+- Tone: Informative, trust-driven, result-oriented
+- Avoid repetition from pillar blog
 
-Output in markdown format.
+Output in markdown.
